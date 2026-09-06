@@ -1,4 +1,4 @@
-<img width="993" height="602" alt="image" src="https://github.com/user-attachments/assets/6e3e08d6-cf4a-4d74-8bb8-98ca56c6fbf1" />Ex-4 Deployment and configuration of a Private Cloud in AWS
+Ex-4 Deployment and configuration of a Private Cloud in AWS
 DATE:
 Name: DEEPIKA V
 Reg. No.: 212224240030
@@ -89,4 +89,5 @@ Snapshot 10: Creating route table
 <img width="1171" height="591" alt="image" src="https://github.com/user-attachments/assets/8b21a7c9-0b26-4f1c-b2d0-2da62ac00f84" />
 
 Result:
+
 Thus, a private cloud on AWS involves using VPCs has been created for a dedicated, isolated network where we can manage our resources and control access according to our requirements.
